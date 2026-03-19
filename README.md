@@ -129,7 +129,7 @@ pip install -r requirements.txt
 ### 3. Download the pretrained model
 Download the model file and put it in the same folder as your project:
 
-👉 [Download Model from Google Drive](https://drive.google.com/file/d/1OtDJa8I5tw7cf1DxA1cn2BMitj-Bm5mR/view?usp=sharing)
+ [Download Model from Google Drive](https://drive.google.com/file/d/1OtDJa8I5tw7cf1DxA1cn2BMitj-Bm5mR/view?usp=sharing)
 
 ### 4. To explore the model / retrain
 Open the notebook in Jupyter:
