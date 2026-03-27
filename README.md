@@ -169,7 +169,7 @@ The dataset was balanced (500 real, 500 fake) to prevent the model from being bi
 
 The model is too large to store on GitHub. Download it from Google Drive:
 
-👉 [Download Pretrained Model](https://drive.google.com/file/d/1OtDJa8I5tw7cf1DxA1cn2BMitj-Bm5mR/view?usp=sharing)
+[Download Pretrained Model](https://drive.google.com/file/d/1OtDJa8I5tw7cf1DxA1cn2BMitj-Bm5mR/view?usp=sharing)
 
 Place the file in the same folder as `app.py` before running.
 
