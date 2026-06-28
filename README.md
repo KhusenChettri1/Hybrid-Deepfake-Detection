@@ -1,3 +1,11 @@
+---
+title: Hybrid Deepfake Detection
+colorFrom: blue
+colorTo: purple
+sdk: docker
+app_port: 7860
+---
+
 # Deepfake Video Detection
 
 A deep learning project that can tell whether a video is **real or fake (deepfake)**. Built as my Final Year B.Tech project.
